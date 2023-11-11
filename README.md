@@ -13,7 +13,7 @@ EC-Vision is developed for optimizing image processing across all ETH Entreprene
 
 1. Clone the repository:
     ```
-    git clone https://github.com/username/project.git
+    git clone [https://github.com/username/project.git](https://github.com/makfazlic/EC-Vision.git)
     ```
 2. Navigate to the project directory:
     ```
