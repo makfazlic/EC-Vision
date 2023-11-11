@@ -39,5 +39,24 @@ EC-Vision is developed for optimizing image processing across all ETH Entreprene
 
 ## Usage
 
-Provide examples of how to use your program here.
+
+### Flags
+
+The program supports the following flags:
+
+- `--help`: Show the help message and exit.
+- `-m MODE, --mode MODE`: MODE can be "face" or "logo" for working with portraits or logos
+- `-i INPUT, --input INPUT`: INPUT can be a path to a .csv file or a folder with images
+
+
+Here's a few examples of how to use the flags:
+```
+python run.py -m face -i ./example.csv
+```
+```
+python run.py -m logo -i ./example.csv
+```
+```
+python run.py -m face -i ./folder_with_images
+```
 
