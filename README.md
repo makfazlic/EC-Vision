@@ -5,10 +5,9 @@ EC-Vision is developed for optimizing image processing across all ETH Entreprene
 
 ### Prerequisites
 
-- Python 3.8
+- Python 3
 - pip
-- virtualenv
-
+  
 ### Setting Up the Environment
 
 1. Clone the repository:
